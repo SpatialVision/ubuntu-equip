@@ -8,4 +8,4 @@
 
 wget --no-check-certificate https://github.com/SpatialVision/ubuntu-equip/raw/master/equip_base.sh && bash equip_base.sh
 
-sudo apt-get install nginx
+sudo apt-get install -y nginx
